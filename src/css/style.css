@@ -192,6 +192,7 @@ section {
 .about h1{
   font-size: var(--font-size-h1);
   font-color: var(--text-color);
+  line-height: var(--line-height-heading);
   margin-bottom: 1rem;
   padding: 0.4rem;
   border-radius: 0.8rem;
