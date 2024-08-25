@@ -206,6 +206,7 @@ h2{
   margin-bottom: 0.4rem;
   padding-bottom: 0.25rem;
   border-bottom: 0.1rem solid var(--primary-color);
+  line-height: var(--line-height-heading);
 }
 
 p{
